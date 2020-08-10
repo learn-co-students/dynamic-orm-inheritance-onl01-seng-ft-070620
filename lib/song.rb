@@ -7,3 +7,5 @@ class Song < InteractiveRecord
   end
 
 end
+
+#Here's a comment so that the lesson will submit. Also, ActiveRecord will just do everything for us? No more copy pasting from old labs? Yay!
